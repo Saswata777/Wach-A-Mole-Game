@@ -1,0 +1,14 @@
+.querySelector()
+.querySelectorAll()
+.forEach()
+.classList.add()
+.classList.remove()
+Math.random()
+Math.floor()
+.addEventListener()
+.textContent
+.id
+setInterval()
+clearInterval()
+alert()
+.push()
